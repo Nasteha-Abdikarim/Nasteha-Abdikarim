@@ -1,0 +1,249 @@
+body{
+
+}
+header {
+    display: flex; 
+    justify-content: space-between;
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+
+    padding-top: 20px;
+
+}
+ header{
+
+    width: 100%;
+    position: fixed;
+
+}
+
+
+
+
+.he1{
+    display: flex;
+
+}
+
+/* .he1 h5{
+    font-size: 15px;
+    font-weight: bold;
+} */
+.he1 ul li a{
+    text-decoration: none;
+    color: black;
+  
+    
+}
+.he1 ul li{
+    margin-top: 1px;
+    padding: 10px;
+    display: inline-block;
+
+}
+.he2 {
+    margin-top: 20px;
+    padding: 3px;
+    margin-right: 10px;
+}
+
+
+.he2 a {
+    color: black;
+    background-color:rgb(236, 241, 241);
+    text-decoration: none;
+     padding: 5px;
+     
+    
+}
+
+.he2 button{
+    padding: 5px;
+    background-color: black;
+    color: azure;
+    border-radius: 13px;
+}
+
+
+
+
+/* 
+dhamaatay qeebtaas */
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main
+{
+    background-color: rgb(6, 6, 133);
+  
+    width: 100%;
+    padding-top: 20px;
+/* 
+    margin-left: 20px;
+    margin-right: 200px; */
+ 
+
+}
+.header{
+    background-color: white;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+        
+    padding-bottom: 15px;
+}
+.he1 h1{
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+
+
+.text img{
+    padding-bottom: 50px;
+    
+    width: 500px;
+    height: 500px;
+}
+
+.text{ 
+    justify-content: space-evenly;
+    
+    display: flex;
+    color: azure;
+    margin-top: 90px;
+    padding-left: 30px;
+
+/* 
+    padding-right: 800px; */
+}
+.te1{
+    margin-top: 120px;
+}
+.te1 h1 {
+    font-size: 60px;
+}
+   /* qeebta 2aad wee dhamaate */
+
+
+
+   .hooyo {
+    padding-top: 100px;
+    padding: 100px;
+    background-color: azure;
+    display:grid;
+    grid-template-columns: 400px 400px;
+    column-gap: 200px;
+   
+   }
+
+   .images{
+    display: grid;
+    grid-template-columns:200px 200px;
+    
+    
+    gap: 30px;
+   }
+
+
+ .img1 img{
+    /* width: 100%; */
+    height: 150px;
+
+ }
+ .swr1{
+    border-radius: 25px;
+ }
+ .swr2{
+    width: 100px;
+    border-radius: 200px;
+ }
+ .swr3{
+    width: 200px;
+ }
+
+ .swr4{
+    border-radius: 25px;
+    width: 150px;
+ }
+
+
+
+ .summry p {
+    text-align: justify;
+ }
+
+
+   /* halkaan ay ku egthy qeebtaan */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .grid{
+   
+    text-align: justify;
+    background-color: yellow;
+    padding-top: 30px;
+    
+   }
+   .grid h1,p{
+    text-align: center;
+
+   }
+    .pra {
+    padding-left: 650px;
+    padding-right: 650px;
+    text-align: justify;
+   }
+
+   .grid-container{
+    margin: 20px;
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-template-rows: 350px 350px 350px;
+    justify-content: center;
+
+    gap: 16px;
+    
+   }
+
+   .item{
+    border-radius: 20px;
+    background-color: azure;
+    padding: 20px;
+   }
+   .item p{
+    text-align: justify;
+   }
+
+.icon{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 360px;
+}
+
+
+
+
+
+   
